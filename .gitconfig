@@ -1,0 +1,8 @@
+[user]
+	useConfigOnly = true
+        email = cucumb3rpasha@gmail.com
+	name = l0s0s
+
+[includeIf "gitdir:/home/losos/dev/notionGPT/**/.git"]
+    path = /home/losos/.gitconfig.notionGPT
+
