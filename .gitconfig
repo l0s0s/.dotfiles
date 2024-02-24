@@ -1,0 +1,7 @@
+[user]
+	email = cucumb3rpasha@gmail.com
+	name = Pavel Ogurtsov
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[includeIf "gitdir:~/dev/mag/*/.git"]
+    path = ~/dev/mag/.gitconfig
